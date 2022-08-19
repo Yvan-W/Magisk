@@ -2,11 +2,11 @@
   "magisk": {
     "version": "25.2",
     "versionCode": "25200",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/app-release.apk",
+    "link": "https://ghproxy.com/https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/25200.md"
   },
   "stub": {
     "versionCode": "33",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@25.2/stub-release.apk"
+    "link": "https://ghproxy.com/https://github.com/topjohnwu/Magisk/releases/download/v25.2/stub-release.apk"
   }
 }
